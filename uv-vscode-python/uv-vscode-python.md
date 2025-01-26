@@ -37,6 +37,22 @@ attribution:
 
 I will discuss uv as a replacement for pip, Poetry, PDM, and others, using Windows and VSCode as examples.
 
+- [In Brief](#in-brief)
+- [Ссылки](#ссылки)
+- [Preparation](#preparation)
+- [Installing uv](#installing-uv)
+- [Creating a project](#creating-a-project)
+- [Creating a Virtual Environment](#creating-a-virtual-environment)
+- [Writing and Running Code](#writing-and-running-code)
+- [Adding Libraries](#adding-libraries)
+- [Code Formatting](#code-formatting)
+- [Additional Commands for uv](#additional-commands-for-uv)
+- [Testing](#testing)
+- [Deploying a Project on a New Machine](#deploying-a-project-on-a-new-machine)
+- [Choosing a Different Python Version](#choosing-a-different-python-version)
+- [Building an EXE File](#building-an-exe-file)
+- [Creating Packages](#creating-packages)
+
 Until very recently, I was advocating for Rye over pip, Pipenv, Hatch, Poetry, and PDM. But the author of Rye has handed over his project to the creators of uv and is advocating for the switch to uv.
 
 However, the work is very much similar to working in Rye. It's no coincidence that these programs have merged. Although, as of now, not everything is as simple as in Rye: Ruff needs to be installed separately, there's no built-in test support, etc.
