@@ -36,6 +36,8 @@ attribution:
 
 Detailed guide on creating your own Python package using uv, exemplified on Windows 11.
 
+## Table of contents
+
 - [Preparation](#preparation)
 - [Creating a Project](#creating-a-project)
 - [Installing Packages](#installing-packages)

@@ -37,6 +37,8 @@ attribution:
 
 I will discuss uv as a replacement for pip, Poetry, PDM, and others, using Windows and VSCode as examples.
 
+## Table of contents
+
 - [In Brief](#in-brief)
 - [Ссылки](#ссылки)
 - [Preparation](#preparation)
