@@ -58,11 +58,11 @@ I will discuss uv as a replacement for pip, Poetry, PDM, and others, using Windo
 - [Building an EXE File](#building-an-exe-file)
 - [Creating Packages](#creating-packages)
 
+</details>
+
 Until very recently, I was advocating for Rye over pip, Pipenv, Hatch, Poetry, and PDM. But the author of Rye has handed over his project to the creators of uv and is advocating for the switch to uv.
 
 However, the work is very much similar to working in Rye. It's no coincidence that these programs have merged. Although, as of now, not everything is as simple as in Rye: Ruff needs to be installed separately, there's no built-in test support, etc.
-
-</details>
 
 ## In Brief
 
