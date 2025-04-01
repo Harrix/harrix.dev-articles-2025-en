@@ -36,7 +36,8 @@ attribution:
 
 Detailed guide on creating your own Python package using uv, exemplified on Windows 11.
 
-## Table of contents
+<details>
+<summary>📖 Contents</summary>
 
 - [Preparation](#preparation)
 - [Creating a Project](#creating-a-project)
@@ -62,6 +63,8 @@ Official documentation:
 - <https://github.com/pypa/sampleproject>
 
 I will demonstrate using VSCode, but you can use another editor and terminal.
+
+</details>
 
 ## Preparation
 
