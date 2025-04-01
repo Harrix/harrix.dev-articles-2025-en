@@ -40,6 +40,8 @@ I will discuss uv as a replacement for pip, Poetry, PDM, and others, using Windo
 <details>
 <summary>📖 Contents</summary>
 
+## Contents
+
 - [In Brief](#in-brief)
 - [Ссылки](#ссылки)
 - [Preparation](#preparation)

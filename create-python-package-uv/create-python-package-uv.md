@@ -39,6 +39,9 @@ Detailed guide on creating your own Python package using uv, exemplified on Wind
 <details>
 <summary>📖 Contents</summary>
 
+## Contents
+
+- [Summary](#summary)
 - [Preparation](#preparation)
 - [Creating a Project](#creating-a-project)
 - [Installing Packages](#installing-packages)
@@ -50,6 +53,10 @@ Detailed guide on creating your own Python package using uv, exemplified on Wind
 - [Publishing a New Version of the Package](#publishing-a-new-version-of-the-package)
 - [Deploying Package Development on a New Machine](#deploying-package-development-on-a-new-machine)
 - [Installing a Local Package](#installing-a-local-package)
+
+</details>
+
+## Summary
 
 The package created within this article:
 
@@ -63,8 +70,6 @@ Official documentation:
 - <https://github.com/pypa/sampleproject>
 
 I will demonstrate using VSCode, but you can use another editor and terminal.
-
-</details>
 
 ## Preparation
 
