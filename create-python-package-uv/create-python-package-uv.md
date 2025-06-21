@@ -73,7 +73,7 @@ I will demonstrate using VSCode, but you can use another editor and terminal.
 
 ## Preparation
 
-Install and configure uv, for example, using the article [Installing and Working with uv (Python) in VSCode](https://github.com/Harrix/harrix.dev-articles-2025-en/blob/main/uv-vscode-python/uv-vscode-python.md) | [🡥](https://harrix.dev/en/articles/2025/uv-vscode-python/).
+Install and configure uv, for example, using the article [Installing and Working with uv (Python) in VSCode](https://github.com/Harrix/harrix.dev-articles-2025-en/blob/main/uv-vscode-python/uv-vscode-python.md) | [↗️](https://harrix.dev/en/articles/2025/uv-vscode-python/).
 
 ## Creating a Project
 
@@ -354,7 +354,7 @@ _Figure 16: dist Folder_
 
 ## Using the Package Published on PyPi
 
-To check the published package, create a new Python project using uv (for example, named `test`) with its virtual environment, where you will install the published package. You can do it the [usual way](https://github.com/Harrix/harrix.dev-articles-2025-en/blob/main/uv-vscode-python/uv-vscode-python.md) | [🡥](https://harrix.dev/en/articles/2025/uv-vscode-python.md/), or through the console with the project opened in VSCode. Here is the code for Windows using PowerShell:
+To check the published package, create a new Python project using uv (for example, named `test`) with its virtual environment, where you will install the published package. You can do it the [usual way](https://github.com/Harrix/harrix.dev-articles-2025-en/blob/main/uv-vscode-python/uv-vscode-python.md) | [↗️](https://harrix.dev/en/articles/2025/uv-vscode-python.md/), or through the console with the project opened in VSCode. Here is the code for Windows using PowerShell:
 
 ```shell
 cd C:\python-projects
@@ -522,7 +522,7 @@ Or use `pip install harrix-test-package --upgrade` if your project uses pip.
 
 For instance, we have the [source code](https://github.com/Harrix/harrix-test-package) of our package on GitHub, which we want to clone onto another computer, for example, into the folder `c:\projects` (for this example, the folder is intentionally named differently to distinguish it from `c:\python-projects`).
 
-We assume that [Python](https://github.com/Harrix/harrix.dev-articles-2021/blob/main/install-python/install-python.md) | [🡥](https://harrix.dev/en/articles/2021/install-python/), [Git](https://github.com/Harrix/harrix.dev-articles-2021/blob/main/install-git/install-git.md) | [🡥](https://harrix.dev/en/articles/2021/install-git/), [uv](https://github.com/Harrix/harrix.dev-articles-2025-en/blob/main/uv-vscode-python/uv-vscode-python.md) | [🡥](https://harrix.dev/en/articles/2023/uv-vscode-python/), and VSCode are installed on your new machine.
+We assume that [Python](https://github.com/Harrix/harrix.dev-articles-2021/blob/main/install-python/install-python.md) | [↗️](https://harrix.dev/en/articles/2021/install-python/), [Git](https://github.com/Harrix/harrix.dev-articles-2021/blob/main/install-git/install-git.md) | [↗️](https://harrix.dev/en/articles/2021/install-git/), [uv](https://github.com/Harrix/harrix.dev-articles-2025-en/blob/main/uv-vscode-python/uv-vscode-python.md) | [↗️](https://harrix.dev/en/articles/2023/uv-vscode-python/), and VSCode are installed on your new machine.
 
 You can clone the project with the following command:
 

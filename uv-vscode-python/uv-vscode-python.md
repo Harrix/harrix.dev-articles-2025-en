@@ -99,7 +99,7 @@ Commands for work:
 ## Ссылки
 
 - [uv](https://docs.astral.sh/uv/) — the tool's website.
-- [Creating packages in Python with uv](https://github.com/Harrix/harrix.dev-articles-2025-en/blob/main/create-python-package-uv/create-python-package-uv.md) | [🡥](https://harrix.dev/en/articles/2025/create-python-package-uv/).
+- [Creating packages in Python with uv](https://github.com/Harrix/harrix.dev-articles-2025-en/blob/main/create-python-package-uv/create-python-package-uv.md) | [↗️](https://harrix.dev/en/articles/2025/create-python-package-uv/).
 
 ## Preparation
 
@@ -667,4 +667,4 @@ If a single file is not needed, do not use the `-F` flag, and if you need a cons
 
 ## Creating Packages
 
-Read the separate article [Creating packages in Python with uv](https://github.com/Harrix/harrix.dev-articles-2025-en/blob/main/create-python-package-uv/create-python-package-uv.md) | [🡥](https://harrix.dev/en/articles/2025/create-python-package-uv/).
+Read the separate article [Creating packages in Python with uv](https://github.com/Harrix/harrix.dev-articles-2025-en/blob/main/create-python-package-uv/create-python-package-uv.md) | [↗️](https://harrix.dev/en/articles/2025/create-python-package-uv/).
