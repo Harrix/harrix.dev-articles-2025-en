@@ -37,7 +37,7 @@ attribution:
 Detailed guide on creating your own Python package using uv, exemplified on Windows 11.
 
 <details>
-<summary>📖 Contents</summary>
+<summary>📖 Contents ⬇️</summary>
 
 ## Contents
 
